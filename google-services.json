@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238740194513",
+    "project_id": "play-lucky-4eaea",
+    "storage_bucket": "play-lucky-4eaea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238740194513:android:a9f358bda99a18e84cf1f0",
+        "android_client_info": {
+          "package_name": "com.playlucky.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzz987ljVzWMrK_c2vpK70J7IDiKxWEXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
